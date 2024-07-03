@@ -1,4 +1,3 @@
-# Break-Out-7
 ## Discuss DOM
 
 ## What is DOM
